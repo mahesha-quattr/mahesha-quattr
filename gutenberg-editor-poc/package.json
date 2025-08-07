@@ -1,0 +1,31 @@
+{
+  "name": "gutenberg-editor-poc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@wordpress/block-editor": "^15.1.0",
+    "@wordpress/blocks": "^15.1.0",
+    "@wordpress/components": "^30.1.0",
+    "@wordpress/core-data": "^7.28.0",
+    "@wordpress/data": "^10.28.0",
+    "@wordpress/edit-post": "^8.28.0",
+    "@wordpress/i18n": "^6.1.0",
+    "@wordpress/icons": "^10.28.0",
+    "html-react-parser": "^5.2.6",
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
