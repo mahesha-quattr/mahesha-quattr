@@ -2,7 +2,7 @@
 - 👀 I’m interested Everything Related to Tec
 - 🌱 I’m currently learning coffescript
 - 💞️ I’m looking to collaborate on JS Fullstack
-- 📫 Reach me at mahesh.auti.ext@quattr.com
+- 📫 Reach me at mahesh.auti@quattr.com
 
 <!---
 mahesha-quattr/mahesha-quattr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
