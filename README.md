@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mahesh Auti
-- 👀 I’m interested Everything Related to Tec
-- 🌱 I’m currently learning coffescript
-- 💞️ I’m looking to collaborate on JS Fullstack
+- 💞️ I’m looking to collaborate on AI ~ Fullstack
 - 📫 Reach me at mahesh.auti@quattr.com
 
 <!---
